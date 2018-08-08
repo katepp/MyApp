@@ -12575,11 +12575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kateiiz/Projects/MyApp/MyApp/MyApp.csproj",
+      "projectUniqueName": "/Users/kateiiz/Projects/WebApp/katepp/MyApp.git/MyApp/MyApp/MyApp.csproj",
       "projectName": "MyApp",
-      "projectPath": "/Users/kateiiz/Projects/MyApp/MyApp/MyApp.csproj",
+      "projectPath": "/Users/kateiiz/Projects/WebApp/katepp/MyApp.git/MyApp/MyApp/MyApp.csproj",
       "packagesPath": "/Users/kateiiz/.nuget/packages/",
-      "outputPath": "/Users/kateiiz/Projects/MyApp/MyApp/obj",
+      "outputPath": "/Users/kateiiz/Projects/WebApp/katepp/MyApp.git/MyApp/MyApp/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
